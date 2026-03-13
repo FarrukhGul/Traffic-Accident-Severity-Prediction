@@ -1,0 +1,27 @@
+# ===== PYTHON / BACKEND =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+env/
+*.egg-info/
+
+# ML Model files (large binary files)
+backend/models/*.pkl
+
+# Dataset (sensitive / large)
+backend/TrafficAccidents.csv
+
+# ===== NODE / FRONTEND =====
+node_modules/
+dist/
+.env
+.env.local
+.env.production
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
