@@ -12,7 +12,7 @@ A full-stack machine learning web application that predicts the severity of traf
 
 ## 📸 Preview
 
-<img width="1920" height="1080" alt="header" src="https://github.com/user-attachments/assets/a2e8786e-b614-43aa-bebe-bae9fcad8e9d" />
+<img width="1917" height="614" alt="header" src="https://github.com/user-attachments/assets/83b9dc5d-dfea-44da-b6dc-c5610eb222d7" />
 <img width="1838" height="651" alt="InputPart1" src="https://github.com/user-attachments/assets/32b761a6-31cb-4f5b-8cc1-9f39945a1280" />
 <img width="1833" height="477" alt="InputPart2" src="https://github.com/user-attachments/assets/6bc8d382-5eb1-4058-821a-d37da55c9516" />
 <img width="1842" height="588" alt="predictionPart" src="https://github.com/user-attachments/assets/2bd7bb28-a89a-4b02-a223-e34dfda13587" />
