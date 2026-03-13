@@ -64,9 +64,28 @@ Traffic-Accident-Severity-Prediction/
 └── front-end/                  # React frontend
     ├── src/
     │   ├── App.jsx
-    │   ├── components/         # UI components
+    │   ├── main.jsx
+    │   ├── index.css
+    │   ├── components/
+    │   │   ├── ValidationManager.jsx
+    │   │   ├── common/
+    │   │   │   ├── AgeValidationModal.jsx
+    │   │   │   ├── NumberInput.jsx
+    │   │   │   ├── SelectInput.jsx
+    │   │   │   └── SeverityBadge.jsx
+    │   │   ├── layout/
+    │   │   │   └── StatsBar.jsx
+    │   │   └── sections/
+    │   │       ├── Header.jsx
+    │   │       ├── Footer.jsx
+    │   │       ├── VehicleCollisionSection.jsx
+    │   │       ├── DriverInfoSection.jsx
+    │   │       ├── TimeDateSection.jsx
+    │   │       ├── EnvironmentSection.jsx
+    │   │       ├── LocationSection.jsx
+    │   │       └── PredictionSection.jsx
     │   └── services/
-    │       └── api.js          # Axios API service
+    │       └── api.js
     ├── package.json
     └── vite.config.js
 ```
